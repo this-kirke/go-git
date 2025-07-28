@@ -52,8 +52,8 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/stretchr/testify v1.10.0 h1:Xv5erBjTwe/5IxqUQTdXv5kgmIvbHo3QQyRwhJsOfJA=
 github.com/stretchr/testify v1.10.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
-github.com/this-kirke/go-billy/v6 v6.0.1 h1:ebqvDofUchtFQ/vuRqtTcEgxMYa8GOKQTxsAmyHqwe8=
-github.com/this-kirke/go-billy/v6 v6.0.1/go.mod h1:FPD1TZnVDvz/RWto2XQOwdhSkEN8RyqGvm0hNux7MPk=
+github.com/this-kirke/go-billy/v6 v6.0.3 h1:4m6CXUlcIV1Rl2I8/+tRDWWyFJROV8ApX8Q2wycL7yc=
+github.com/this-kirke/go-billy/v6 v6.0.3/go.mod h1:7x+8/Ax05CdvHknJeiFf9mM25poH84hXf30yWqXVPfM=
 golang.org/x/crypto v0.40.0 h1:r4x+VvoG5Fm+eJcxMaY8CQM7Lb0l1lsmjGBQ6s8BfKM=
 golang.org/x/crypto v0.40.0/go.mod h1:Qr1vMER5WyS2dfPHAlsOj01wgLbsyWtFn/aY+5+ZdxY=
 golang.org/x/exp v0.0.0-20250531010427-b6e5de432a8b h1:QoALfVG9rhQ/M7vYDScfPdWjGL9dlsVVM5VGh7aKoAA=
